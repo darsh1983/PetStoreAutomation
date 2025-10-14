@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-10T17:23:57 CDT" name="Default suite" finished-at="2025-10-10T17:24:02 CDT" duration-ms="4616">
+    <groups>
+    </groups>
+    <test started-at="2025-10-10T17:23:57 CDT" name="Default test" finished-at="2025-10-10T17:24:02 CDT" duration-ms="4616">
+      <class name="api.test.userTests">
+        <test-method is-config="true" signature="tc1()[pri:0, instance:api.test.userTests@815b41f]" started-at="2025-10-10T17:23:57 CDT" name="tc1" finished-at="2025-10-10T17:23:58 CDT" duration-ms="366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method signature="testPostUser()[pri:1, instance:api.test.userTests@815b41f]" started-at="2025-10-10T17:23:58 CDT" name="testPostUser" finished-at="2025-10-10T17:24:02 CDT" duration-ms="3912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostUser -->
+        <test-method signature="testGetUser()[pri:2, instance:api.test.userTests@815b41f]" started-at="2025-10-10T17:24:02 CDT" name="testGetUser" finished-at="2025-10-10T17:24:02 CDT" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUser -->
+      </class> <!-- api.test.userTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
